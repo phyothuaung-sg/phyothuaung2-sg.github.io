@@ -12,3 +12,16 @@
     height: 180px;
     background-color: #d3dae1;
 }
+
+
+  
+@media (min-width: 768px) {
+    .scroll-column {
+      max-height: 200px;
+    }
+}
+
+.divided{
+    width: 80px;
+    border: 2px solid green;
+}
